@@ -1,5 +1,5 @@
 # oikotie-helsinki-restapi
-Apartment for sale and sold on the Oikotie.fi website. The data is not updated daily and only includes apartments located in Helsinki.
+Apartments that are for sale and apartments that have already been sold on the Oikotie.fi website. The data is not updated daily and only includes apartments located in Helsinki.
 
 link : https://oikotie-helsinki-restapi.herokuapp.com/ 
 
