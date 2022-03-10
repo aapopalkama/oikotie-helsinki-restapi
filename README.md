@@ -12,7 +12,7 @@ link : https://oikotie-helsinki-restapi.herokuapp.com/
 import requests
 import pandas as pd
 
-data = requests.get('https://oikotie-helsinki-restapi.herokuapp.com/').json()['Data']
+data = requests.get('https://oikotie-helsinki-restapi.herokuapp.com/').json()
 df = pd.DataFrame.from_dict(data)
 print(df.head(10))
 
